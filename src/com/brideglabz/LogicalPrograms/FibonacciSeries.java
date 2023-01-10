@@ -1,4 +1,4 @@
-package com.brideglabz.LogicalPrograms;
+package com.brideglabz.logicalprograms;
 
 public class FibonacciSeries {
     public static void checkFibonacciSeries(int number){
