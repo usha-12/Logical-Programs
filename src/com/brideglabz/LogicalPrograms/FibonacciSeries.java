@@ -15,7 +15,6 @@ public class FibonacciSeries {
     public static void main(String[] args) {
         System.out.println("Welcome to the Fibonacci Series program");
         checkFibonacciSeries(28);
-
     }
 }
 /*Fibonacci series is a special type of series in which the next term is the sum of the
