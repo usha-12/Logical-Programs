@@ -1,4 +1,4 @@
-package com.brideglabz.LogicalPrograms;
+package com.brideglabz.logicalprograms;
 
 import java.util.Scanner;
 
